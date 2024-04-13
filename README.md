@@ -44,4 +44,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-You can replace `<repository-url>`, `<repository-name>`, and add any additional information as needed. Make sure to include the appropriate links to the documentation and license.
+You can replace `<https://github.com/itsmesxnki/Hand-Recognizer/tree/main>`, `<Hand-Recognizer>`, and add any additional information as needed. Make sure to include the appropriate links to the documentation and license.
